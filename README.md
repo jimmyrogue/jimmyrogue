@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Mediastorm
+- 🌱 I’m currently learning Typescript three.js
+- 💬 Ask me about Javascript Vue3
+- 📫 How to reach me: tliang92@gmail.com
+
 <!--
 **jimmyrogue/jimmyrogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
